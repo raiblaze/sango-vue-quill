@@ -6,19 +6,13 @@
   "bugs": "https://github.com/raiblaze/sango-vue-quill/issues",
   "license": "MIT",
   "author": "Rai Blaze",
-  "funding": [
-    {
-      "type": "individual",
-      "url": "https://www.buymeacoffee.com/luthfimasruri"
-    }
-  ],
   "workspaces": [
     "packages/*",
     "demo"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vueup/vue-quill.git"
+    "url": "https://github.com/raiblaze/sango-vue-quill.git"
   },
   "types": "test-dts/index.d.ts",
   "tsd": {
