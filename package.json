@@ -1,7 +1,6 @@
 {
   "name": "sango-vue-quill",
-  "private": true,
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Vue 3 rich text editor",
   "homepage": "https://github.com/raiblaze/sango-vue-quill.git",
   "bugs": "https://github.com/raiblaze/sango-vue-quill/issues",
